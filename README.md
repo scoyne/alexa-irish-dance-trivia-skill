@@ -1,3 +1,24 @@
+# Irish Dancing Trivia
+The Irish Dancing Quiz is created to test an Irish Dancer's knowledge of their sport.  The quiz asks questions about dance shoes, steps, clothing, positions and even Riverdance.
+
+### Enable the Baldwin Wallace HelpDesk Skill
+1. Search the Alexa App for the Irish Dance Trivia Skill
+2. Touch Enable Skill
+
+### How to play
+* "Alexa, Play Irish Dance Trivia." 
+* "Alexa, Launch Irish Dance Trivia."
+* "Alexa, Open Irish Dance Trivia."
+
+### Alexa Skills Kit Documentation
+The documentation for the Alexa Skills Kit is available on the Amazon Apps and Services Developer Portal.
+
+### Skill Overview
+AWS Lambda
+Alexa Skills Kit
+Git Repository
+
+
 # Build An Alexa Fact Skill
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
